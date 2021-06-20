@@ -15,6 +15,8 @@ npx pod-install
 npx react-native run-android / npx react-native run-ios
 
 
+Contenido:
+
 • Página de productos
 
 o Listado de productos
