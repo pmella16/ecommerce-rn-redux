@@ -1,6 +1,6 @@
 # ecommerce-rn-redux
 
-ecoomerce realizado con react native, redux, rn papers, thunk, react navigation
+ecommerce realizado con react native, redux, rn paper, thunk, react navigation
 
 Instrucciones:
 
