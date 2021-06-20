@@ -3,12 +3,14 @@
 ecoomerce realizado con react native, redux, rn papers, thunk, react navigation
 
 • Página de productos
+
 o Listado de productos
 Producto:
 Foto
 Nombre
 Tipo
 Precio (simular precios)
+
 • Agregar al carrito
 • Mini carrito desplegable
 o Muestra los productos agregados
