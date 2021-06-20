@@ -1,0 +1,14 @@
+com/ecommerce/MainActivity.java
+ com.ecommerce.MainActivity
+com/ecommerce/ReactNativeFlipper.java
+ com.ecommerce.ReactNativeFlipper
+ com.ecommerce.ReactNativeFlipper$1
+ com.ecommerce.ReactNativeFlipper$2
+ com.ecommerce.ReactNativeFlipper$2$1
+com/ecommerce/MainApplication.java
+ com.ecommerce.MainApplication
+ com.ecommerce.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/ecommerce/BuildConfig.java
+ com.ecommerce.BuildConfig
