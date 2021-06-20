@@ -46,5 +46,7 @@ o Precio total del carro
 
 
 TODO:
+
 add alertas de confirmación
+
 add vector icons
