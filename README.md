@@ -44,3 +44,7 @@ o Precio total del carro
 
 • Checkout con todos los productos
 
+
+TODO:
+add alertas de confirmación
+add vector icons
