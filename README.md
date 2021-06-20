@@ -3,11 +3,17 @@
 ecoomerce realizado con react native, redux, rn papers, thunk, react navigation
 
 Instrucciones:
+
 git clone https://github.com/pmella16/ecommerce-rn-redux.git
+
 cd ecommerce-rn-redux
+
 npm i
+
 npx pod-install
+
 npx react-native run-android / npx react-native run-ios
+
 
 • Página de productos
 
